@@ -1,0 +1,9 @@
+{
+    "id": "mess-up-game-plugin",
+    "name": "Mess Up Game",
+    "version": "1.0.0",
+    "minAppVersion": "1.5.0",
+    "description": "Gamify your note review by scrambling your content into fragments. Restore the original structure to win.",
+    "author": "Vetrenar",
+    "isDesktopOnly": false
+}
